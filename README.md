@@ -1,0 +1,2 @@
+# nodeMasterClassAssignments
+nodeClass
